@@ -1,0 +1,7 @@
+.curved-shape {
+  margin-top: auto;
+  display: block;
+  align-self: flex-end;
+  width: 100%;
+  margin-bottom: -10px;
+}
